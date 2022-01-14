@@ -1,1 +1,1 @@
-# social-network-django
+# SocialNetwork-Django
